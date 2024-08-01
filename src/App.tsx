@@ -15,7 +15,6 @@ function App() {
           >
             <img src="/Boton-Menu.webp" alt="Menu" />
           </button>
-          
         </div>
         <div className="flex flex-col w-full md:w-[515px] h-full p-4 mt-20 md:ml-20 md:mt-0">
           <div className="flex flex-col w-full h-auto p-9 rounded-2xl text-[#E8E6E3] bg-[#002c40]">
@@ -36,3 +35,4 @@ function App() {
 }
 
 export default App;
+
