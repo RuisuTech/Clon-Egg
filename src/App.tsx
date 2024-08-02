@@ -12,7 +12,7 @@ function App() {
               src="/Rayo.webp"
               alt="Rayo"
             />
-            <h2 className="md:hidden">Name</h2>
+            <h2 className="md:hidden">Nombre de Usuario</h2>
           </div>
           <div className="hidden md:flex gap-4 w-full md:w-20 h-full items-center  md:justify-end md:flex-col">
             <img
